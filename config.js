@@ -7,7 +7,7 @@ const CONFIG = {
     connector: "and",
     together: "Together Forever"
   },
-  //memorialDate: "2017-12-25T00:00:00",
+  memorialDate: "2023-01-01T00:00:00",
 
   letter: {
 
